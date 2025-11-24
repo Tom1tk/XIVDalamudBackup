@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32203.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XIVBackup", "XIVBackup\XIVBackup.csproj", "{7650F853-6D97-42E1-A3C8-F816AAA6BEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7650F853-6D97-42E1-A3C8-F816AAA6BEFB}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{7650F853-6D97-42E1-A3C8-F816AAA6BEFB}.Debug|Any CPU.Build.0 = Debug|x64
+		{7650F853-6D97-42E1-A3C8-F816AAA6BEFB}.Debug|x64.ActiveCfg = Debug|x64
+		{7650F853-6D97-42E1-A3C8-F816AAA6BEFB}.Debug|x64.Build.0 = Debug|x64
+		{7650F853-6D97-42E1-A3C8-F816AAA6BEFB}.Release|Any CPU.ActiveCfg = Release|x64
+		{7650F853-6D97-42E1-A3C8-F816AAA6BEFB}.Release|Any CPU.Build.0 = Release|x64
+		{7650F853-6D97-42E1-A3C8-F816AAA6BEFB}.Release|x64.ActiveCfg = Release|x64
+		{7650F853-6D97-42E1-A3C8-F816AAA6BEFB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC9CE449-F997-48BE-BF45-9C1B4D5548FA}
+	EndGlobalSection
+EndGlobal

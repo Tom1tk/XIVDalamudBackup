@@ -1,0 +1,12 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using Dalamud.Bindings.ImGui;
+global using ECommons.DalamudServices;
+global using ECommons.ImGuiMethods;
+global using Dalamud.Interface.Colors;
+global using Dalamud.Interface.Windowing;
+global using static ECommons.GenericHelpers;
+global using ECommons.DalamudServices.Legacy;

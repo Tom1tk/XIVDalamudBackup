@@ -1,0 +1,8 @@
+﻿{
+  "Author": "Tom1tk",
+  "Name": "XIV Dalamud Backup",
+  "InternalName": "XIVDalamudBackup",
+  "Punchline": "Backup your FFXIV configs to GitHub automatically.",
+  "Description": "Automatically backup game and plugin configurations to GitHub with full version history. Restore from any previous backup with one click.",
+  "RepoUrl": "https://github.com/Tom1tk/XIVDalamudBackup"
+}
